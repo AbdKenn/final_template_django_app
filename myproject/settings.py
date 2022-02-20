@@ -24,10 +24,10 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'aay0j_9b&ky3a7(8m8il+-1ud(scw12@w5!+5-=gsk6ynzi0ls'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 # <HINT> add your cloud host here
-ALLOWED_HOSTS = ['jahi.eu-gb.mybluemix.net']
+ALLOWED_HOSTS = ['jahi.eu-gb.mybluemix.net', 'https://p8080-c7a03779-ff53-41d3-9d5f-a3f59a14a027.dp3.eu-de.shell.cloud.ibm.com/']
 
 
 # Application definition
