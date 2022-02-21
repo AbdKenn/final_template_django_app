@@ -28,7 +28,7 @@ DEBUG = False
 
 # <HINT> add your cloud host here
 #ALLOWED_HOSTS = ['jahi.eu-gb.mybluemix.net']
-ALLOWED_HOSTS = ['jahi.eu-gb.mybluemix.net']
+ALLOWED_HOSTS = []
 
 
 # Application definition
